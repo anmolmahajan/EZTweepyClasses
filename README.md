@@ -14,6 +14,6 @@ An easy interface for collecting twitter data through tweepy. For NLP, I will be
  Note: Uncomment the builders when running for the first time.
 
 
-# Installing Tweepy
+# Installing Dependencies
     pip install tweepy, matplotlib, wordcloud, spacy, gensim, pyLDAvis
 
